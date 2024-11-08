@@ -1,4 +1,4 @@
-.card-01 {
+.card {
     max-width: 340px;
     background-color: var(--card-background-color);
     border-radius: 20px;
@@ -13,7 +13,7 @@
     height: 55px;
     width: 55px;
     border-radius: 50%;
-    background-color: var(--card-circle-color-3);
+    background-color: var(--card-circle-color-1);
 }
 
 .card-title {
@@ -27,7 +27,7 @@
     margin-bottom: 15px;
 }
 
-.card-01 img {
+.card img {
     border-radius: 18px;
     width: 100%;
 }
